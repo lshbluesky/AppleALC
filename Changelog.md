@@ -1,5 +1,8 @@
 AppleALC Changelog
 ==================
+#### v1.9.2
+- Fixed 700 series HDA controller patch as found on Z790 motherboards and alike by savvas
+
 #### v1.9.1
 - Added constants for macOS 15 support
 - Added ALC275 layout-id 15 for Sony Vaio SVD11225PXB by hiimpiscean
