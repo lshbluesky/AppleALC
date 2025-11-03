@@ -1304,17 +1304,13 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Find</key>
-				<data>
-				DgAAvgIAAABIid8=
-				</data>
+				<data>DgAAvgIAAABIid8=</data>
 				<key>MinKernel</key>
 				<integer>19</integer>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>
-				DgAAuHCdAADrBpA=
-				</data>
+				<data>DgAAuHCdAADrBpA=</data>
 			</dict>
 		</array>
 		<key>Vendor</key>
@@ -1470,7 +1466,7 @@
 		<key>Vendor</key>
 		<string>Intel</string>
 	</dict>
-<dict>
+	<dict>
 		<key>Device</key>
 		<integer>32592</integer>
 		<key>Name</key>
@@ -1481,17 +1477,13 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Find</key>
-				<data>
-				DgAAvgIAAABIid8=
-				</data>
+				<data>DgAAvgIAAABIid8=</data>
 				<key>MinKernel</key>
 				<integer>17</integer>
 				<key>Name</key>
 				<string>AppleHDAController</string>
 				<key>Replace</key>
-				<data>
-				DgAAuHCdAADrBpA=
-				</data>
+				<data>DgAAuHCdAADrBpA=</data>
 			</dict>
 		</array>
 		<key>Vendor</key>
