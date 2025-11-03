@@ -10957,6 +10957,20 @@
 					<integer>35</integer>
 				</dict>
 				<dict>
+					<key>Codec</key>
+					<string>Lenovo Yoga 500-14IBD ALC235 by gabimariz</string>
+					<key>CodecID</key>
+					<integer>283902517</integer>
+					<key>ConfigData</key>
+					<data>AhccIAIXHRACFx4rAhcfAAGXHDABlx0QAZcegQGXHwEBJxwwAScdAAEnHqYBJx+QAUccQAFHHQABRx4XAUcfkAFHDAI=</data>
+					<key>LayoutID</key>
+					<integer>55</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAg==</data>
+          <key>WakeVerbReinit</key>
+					<true/>
+        </dict>
+        <dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>CodecID</key>
