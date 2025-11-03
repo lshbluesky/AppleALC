@@ -10920,6 +10920,24 @@
 					<key>LayoutID</key>
 					<integer>35</integer>
 				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>AwAAAA==</data>
+					<key>CodecID</key>
+					<integer>283902550</integer>
+					<key>Comment</key>
+					<string>auq3l - Realtek ALC256 for ASUS X412FAG</string>
+					<key>ConfigData</key>
+					<data>AUccEAFHHQABRx4XAUcfkAFHDAICFxwgAhcdEAIXHiECFx8AAhcMAgEnHDABJx0AAScepgEnH5ABlxxAAZcdEAGXHoEBlx8B</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>41</integer>
+					<key>WakeConfigData</key>
+					<data>AUcMAgIXDAI=</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
 			</array>
 			<key>IOClass</key>
 			<string>AppleALC</string>
