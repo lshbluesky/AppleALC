@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install xmllint
-        run: sudo apt-get install libxml2-utils
+        run: sudo apt-get update && sudo apt-get install libxml2-utils
 
       - name: Find 'real' key in plist files
         run: |

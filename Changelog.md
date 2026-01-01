@@ -1,5 +1,15 @@
 AppleALC Changelog
 ==================
+#### v1.9.6
+- Added ALC235 layout-id 20 for Lenovo ThinkCentre M920x-N000 by Xezun
+- Added ALCS1220A layout-id 89 for Asus Z890 ProArt Creator WiFi by caley13
+- Added ALC256 layout-id 41 for Asus X412FAG by I3qua
+- Update controllers.plist with Raptor Lake-P/U/H cAVS Audio Controller (0x51CA) by laobamac
+- Added ALCS1200A layout-id 32 for Asus B550M Plus by ycg31
+- Added CS4206 layout-id 32 ConfigData for iMac12,2 by italomoraes
+- Added ALC235 layout-id 55 for Lenovo Yoga 500-14IBD by gabimariz
+
+
 #### v1.9.5
 - Added constants for macOS 26 support
 - Added ALC256 layout-id 100 for Dell Latitude 5490 var1 by nikich768
